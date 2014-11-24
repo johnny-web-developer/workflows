@@ -20,6 +20,10 @@
     "gulp-if": "^1.2.5",
     "gulp-uglify": "^1.0.1",
     "gulp-minify-html": "^0.1.7",
-    "gulp-jsonminify": "0.0.2"
+    "gulp-jsonminify": "0.0.2",
+    "gulp-imagemin": "^2.0.0"
+  },
+  "dependencies": {
+    "imagemin-pngcrush": "^4.0.0"
   }
 }
